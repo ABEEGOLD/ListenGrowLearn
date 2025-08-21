@@ -3,7 +3,7 @@ public class TaskSix{
 	
 	for(int count = 50; count <= 100;count ++){
 		if(count % 2 != 0){
-			System.out.println(count);
+	 		System.out.println(count);
 		}
 	}
 
