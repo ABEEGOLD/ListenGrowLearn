@@ -10,6 +10,6 @@ public class TwentyTwo{
 		System.out.println("The number count: "+number);
 		
 	}
-	
+	//this code is dividing each number by 10 and dropping it from the 3 upward.
 }
 }

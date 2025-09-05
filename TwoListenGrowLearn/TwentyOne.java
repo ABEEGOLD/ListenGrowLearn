@@ -9,7 +9,7 @@ public class TwentyOne{
 			if(ch == 'a' ||ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
 				count++;
 			}
-		System.out.println("The vowel count: "+count+ "\t" +i);
+		System.out.println("The vowel count: "+count);
 		
 	}
 	

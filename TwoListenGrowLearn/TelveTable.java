@@ -3,11 +3,9 @@ public class TelveTable{
 
 			for(int i = 1;i <= 12;i++){
 			
-	        System.out.println("Element at index " + i +"   * \t==\t" +i*2);
+	        System.out.println("Element at index " + i +"   \t==\t" +i*2);
 
 		}
 	}
 
 
-
-}

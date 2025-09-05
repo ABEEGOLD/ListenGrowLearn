@@ -8,19 +8,19 @@ public class CollectScore{
 
 
 
-					if(score.equalsIgnoreCase("40")){
+					if(score.equals("40")){
 					System.out.println("Fail");
 					}
 
-					if(score.equalsIgnoreCase("50")){
+					if(score.equals("50")){
 					System.out.println("Pass");
 					}
 
-					if(score.equalsIgnoreCase("60")){
+					if(score.equals("60")){
 					System.out.println("Credit");
 					}
 					
-					if(score.equalsIgnoreCase("70")){
+					if(score.equals("70")){
 					System.out.println("Distinction");
 					}else{
 						System.out.println("perfect");
