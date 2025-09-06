@@ -9,7 +9,7 @@ public class WorldPopulationGrowth{
 		System.out.println("Enter annual growth rate: ");
 		double worldGrowthRate = input.nextDouble();
 		
-				double growthRate = worldGrowthRate / 100;
+		double growthRate = worldGrowthRate / 100;
 				
 	
 		int estimatedYearOne = currentWorldPopulation +(int)(currentWorldPopulation * growthRate);

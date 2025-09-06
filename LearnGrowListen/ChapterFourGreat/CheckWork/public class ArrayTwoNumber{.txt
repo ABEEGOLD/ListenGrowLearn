@@ -1,0 +1,22 @@
+public class ArrayTwoNumber{
+
+	public satic void main(String[] args){
+
+
+
+
+	}
+
+
+public static int[][] getNumber(int[][] Array){
+	int[][] ArrayNumber = new int[][];	
+
+	int sum = 0;
+for(int index = 0; index < Array.length; index++);
+		ArrayNumber		
+	
+
+
+
+}
+}

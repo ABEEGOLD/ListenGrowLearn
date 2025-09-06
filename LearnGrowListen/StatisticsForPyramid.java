@@ -12,7 +12,7 @@ public class StatisticsForPyramid{
 		System.out.print("Enter the number of years: ");
 		int numberOfYears = input.nextInt();
 
-		double weightUsed = (double) averageWeightStone * numberOfStones ;
+		double totalWeightUsed = (double) averageWeightStone * numberOfStones ;
 		
 		int estimateYear = numberOfYears * 365; 
 		int estimateHour = estimateYear * 24;
