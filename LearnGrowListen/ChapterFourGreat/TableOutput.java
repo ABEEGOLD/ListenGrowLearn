@@ -2,21 +2,19 @@ public class TableOutput {
     public static void main(String[] args){
 
 
-	System.out.println("N" "\tN2" "\tN3\" "\tN4\");
+	System.out.printf("%-10s%-10s%-10s%-10s%n","N","N2","N3","N4");
 	
 
-	for(int count = 1;count <= 4;count *=2){
-		count++;
+	for(int count = 1;count <= 5;count++){
 
-	} 
-	 System.out.println("\t"count = count * 1);
-	 System.out.println("\t"count = count * 2);
-	 System.out.println("\t"count = count * 3);
-	 System.out.println("\t"count = count * 4);
-	 System.out.println("\t"count = count * 5);
+	int N2 = count * count;
+	int N3 = N2 * count;
+	int N4 = N3 * count;
 
+	 
+System.out.printf("%-10d%-10d%-10d%-10d%n", count,N2,N3,N4);
 
-
+  }
 
 
 
