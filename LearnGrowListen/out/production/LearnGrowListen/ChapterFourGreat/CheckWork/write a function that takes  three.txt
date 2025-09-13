@@ -1,0 +1,7 @@
+//write a function that takes  three sides length and return equilaterial if all sides are equal isoseles if two are equal and scalene if all are different.
+
+
+
+
+
+
