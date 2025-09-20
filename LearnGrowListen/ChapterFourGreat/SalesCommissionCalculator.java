@@ -1,3 +1,5 @@
+package ChapterFourGreat;
+
 import java.util.Scanner;
 public class SalesCommissionCalculator{
 	public static void main(String[] args){
